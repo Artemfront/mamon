@@ -210,7 +210,9 @@ nav.nav {
 
 .line-big {
     width:100%;
-    max-width:1420px;
+    max-width:1582px !important;
+    position: absolute;
+    left:344px;
 }
 
 h4.line__title {
